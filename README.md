@@ -5,11 +5,13 @@ JavimTextEditor is a text editor application that runs in the terminal. It is im
 - Cross-platform support (MacOS, Unix, Windows)
 - Uses the JNA library for native access
 
+![Preview](javim.gif'jaVim in action')
+
 ## Installation
 1. Clone the repository:
    git clone https://github.com/jsvemo/JaVim.git
 2. Navigate to the project directory:
-   cd TerminalTextzEditor
+   cd JaVim
 3. Compile the project with Maven:
    mvn compile
 
