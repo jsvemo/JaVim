@@ -7,7 +7,7 @@ JavimTextEditor is a text editor application that runs in the terminal. It is im
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/jsvemo/TerminalTextzEditor.git
+   git clone https://github.com/jsvemo/JaVim.git
 2. Navigate to the project directory:
    cd TerminalTextzEditor
 3. Compile the project with Maven:
@@ -25,7 +25,7 @@ java -cp ./src/main/resources/jna-5.13.0.jar:./src/main/java/editor.Editor ./src
 ## Program Keybindings
 - `Ctrl + Q` - Quit the application
 - `Ctrl + S` - Save and Exit the file
-- `Ctrl + F` - Find all usages in the file, searches recursively for the current cursor position.
+- `Ctrl + F` - Find all usages in the file, searches recursively from the current cursor position.
 
 # Movement
 - `UP` - Move the cursor up one line.
