@@ -1,11 +1,13 @@
-# JavimTextEditor
-JavimTextEditor is a text editor application that runs in the terminal. It is implemented in Java and uses Maven for dependency management.
+# Javim TextEditor
+Javim TextEditor is a text editor application that runs in the terminal. It is implemented in Java and uses Maven for dependency management.
 
 ## Features
 - Cross-platform support (MacOS, Unix, Windows)
 - Uses the JNA library for native access
 
+
 ![Preview](javim.gif)
+
 
 ## Installation
 1. Clone the repository:
