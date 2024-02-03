@@ -25,7 +25,7 @@ java -cp ./src/main/resources/jna-5.13.0.jar:./src/main/java/editor.Editor ./src
 ## Program Keybindings
 - `Ctrl + Q` - Quit the application
 - `Ctrl + S` - Save and Exit the file
-- `Ctrl + F` - Find all usages in the file, searches recursively for the current cursor position.
+- `Ctrl + F` - Find all usages in the file, searches recursively from the current cursor position.
 
 # Movement
 - `UP` - Move the cursor up one line.
