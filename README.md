@@ -7,7 +7,7 @@ JavimTextEditor is a text editor application that runs in the terminal. It is im
 
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/jsvemo/TerminalTextzEditor.git
+   git clone https://github.com/jsvemo/JaVim.git
 2. Navigate to the project directory:
    cd TerminalTextzEditor
 3. Compile the project with Maven:
